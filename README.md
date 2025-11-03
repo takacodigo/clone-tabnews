@@ -1,2 +1,3 @@
 # clone-tabnews
-primeiro projeto pra valer 
+
+primeiro projeto pra valer
